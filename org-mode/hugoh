@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: hugoh
+# key: hugoh
+# --
+
+#+hugo_base_dir: ../../../
+#+hugo_section: ./post
+
+#+hugo_weight: auto
+#+hugo_auto_set_lastmod: t
+
+#+author: Jerling
+
+$0
