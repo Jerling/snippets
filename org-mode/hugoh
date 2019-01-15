@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: hugoh
-# key: hugoh
+# key: hugoh_
 # --
 
 #+HUGO_BASE_DIR: ../../
