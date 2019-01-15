@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tocg
+# key: tocg_
+# --
+
+* Table of Contens  :TOC_2_gh:
+$0
