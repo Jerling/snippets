@@ -3,9 +3,10 @@
 # key: hugoh_
 # --
 
+#+HUGO_AUTO_SET_LASTMOD: t
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: ./post
-#+HUGO_CATEGORIES: $0
 #+HUGO_WEIGHT: auto
-#+HUGO_AUTO_SET_LASTMOD: t
 #+AUTHOR: Jerling
+#+HUGO_CATEGORIES: $0
+#+HUGO_TAGS: 
