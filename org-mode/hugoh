@@ -4,9 +4,9 @@
 # --
 
 #+HUGO_AUTO_SET_LASTMOD: t
-#+HUGO_BASE_DIR: ../../
+#+HUGO_BASE_DIR: ../
 #+HUGO_SECTION: ./post
 #+HUGO_WEIGHT: auto
 #+AUTHOR: Jerling
 #+HUGO_CATEGORIES: $0
-#+HUGO_TAGS: 
+#+HUGO_TAGS: $1
