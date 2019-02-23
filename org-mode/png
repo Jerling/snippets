@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: png
+# key: png_
+# condition: t
+# --
+
+${1:plantuml}:file ../static/images/$2.png
