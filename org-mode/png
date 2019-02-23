@@ -4,4 +4,4 @@
 # condition: t
 # --
 
-${1:plantuml}:file ../static/images/$2.png
+${1:plantuml} :file ${2:../static/images/}${3:test}.png
