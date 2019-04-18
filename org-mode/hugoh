@@ -3,9 +3,10 @@
 # key: hugoh_
 # --
 
+#+HUGO_CUSTOM_FRONT_MATTER: :toc true
 #+HUGO_AUTO_SET_LASTMOD: t
 #+HUGO_BASE_DIR: ../
-#+HUGO_SECTION: ./blog
+#+HUGO_SECTION: ./post
 #+HUGO_TYPE: post
 #+HUGO_WEIGHT: auto
 #+AUTHOR: Jerling
