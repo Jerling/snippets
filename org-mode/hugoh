@@ -3,6 +3,7 @@
 # key: hugoh_
 # --
 
+#+HUGO_CUSTOM_FRONT_MATTER: :author_homepage "https://github.com/Jerling"
 #+HUGO_CUSTOM_FRONT_MATTER: :toc true
 #+HUGO_AUTO_SET_LASTMOD: t
 #+HUGO_BASE_DIR: ../
@@ -12,3 +13,5 @@
 #+AUTHOR: Jerling
 #+HUGO_CATEGORIES: $1
 #+HUGO_TAGS: $2
+
+$3
